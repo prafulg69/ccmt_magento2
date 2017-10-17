@@ -1,0 +1,16 @@
+{
+    "name": "CCMT/Bundle",
+    "description": "CCMT Meta Bundle",
+    "type": "metapackage",
+    "version": "1.0.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "CCMT/Theme": "~1.0",
+        "CCMT/Shipping": "~1.0",
+        "CCMT/Payment": "~1.0"
+    }
+    
+}
